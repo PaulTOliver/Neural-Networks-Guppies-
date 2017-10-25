@@ -24,7 +24,7 @@ short term memory.
 All Nodes in this network are connected to each other. It's the
 most complex (and processor intensive) network of the four.
 
-##NODE STRUCTURE:
+## NODE STRUCTURE
 Defines the structure of each network node. The two choices are:
 
 ### Neuron
